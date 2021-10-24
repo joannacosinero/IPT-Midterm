@@ -1,7 +1,7 @@
 <h1>Ipt MIDTERM</h1>
 
 <p>
-     Good day! {{$user->name}}! This is christian kiehl a bsit 4 student of MDC 
+     Good day, Ma'am/Sir! {{$user->name}}! 
 </p>
 
 <p>
